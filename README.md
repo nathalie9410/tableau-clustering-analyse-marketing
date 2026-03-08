@@ -25,7 +25,7 @@ pour un investissement marketing accru ?
 - Cartographie
 
 ## Visualisation
-![Segmentation et ciblage géographique](Analyse de l'expansion – WeWashUpYouSleep.png)
+![Segmentation et ciblage géographique](Section8_Dashboard.png)
 
 🔗 [Voir sur Tableau Public](https://public.tableau.com/views/Segmentationetciblagegographique-Analysedexpansion/AnalysedelexpansionWeWashUpYouSleep)
 
